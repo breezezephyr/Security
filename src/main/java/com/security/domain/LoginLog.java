@@ -5,11 +5,6 @@ package com.security.domain;
 
 import java.io.Serializable;
 import java.util.Date;
-
-/**
- * @author rui.deng  Date: 2015/3/10 Time: 0:00
- * @version 1.0.0
- */
 public class LoginLog implements Serializable {
     private int loginLogId;
 
